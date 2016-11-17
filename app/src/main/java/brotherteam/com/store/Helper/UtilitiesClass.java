@@ -8,9 +8,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-/**
- * Created by Amr on 8/23/2016.
- */
+
 public class UtilitiesClass {
     public static void setFont(TextView textView, Context context, int fontIndex) {
         Typeface font = null;
